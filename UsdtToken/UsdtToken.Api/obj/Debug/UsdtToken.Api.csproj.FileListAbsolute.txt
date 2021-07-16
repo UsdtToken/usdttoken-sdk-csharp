@@ -1,0 +1,9 @@
+Q:\14、uToken\usdttoken-sdk-csharp\UsdtToken\UsdtToken.Api\obj\Debug\UsdtToken.Api.csproj.CoreCompileInputs.cache
+Q:\14、uToken\usdttoken-sdk-csharp\UsdtToken\UsdtToken.Api\bin\Debug\UsdtToken.Api.dll
+Q:\14、uToken\usdttoken-sdk-csharp\UsdtToken\UsdtToken.Api\bin\Debug\UsdtToken.Api.pdb
+Q:\14、uToken\usdttoken-sdk-csharp\UsdtToken\UsdtToken.Api\bin\Debug\Newtonsoft.Json.dll
+Q:\14、uToken\usdttoken-sdk-csharp\UsdtToken\UsdtToken.Api\bin\Debug\Newtonsoft.Json.xml
+Q:\14、uToken\usdttoken-sdk-csharp\UsdtToken\UsdtToken.Api\obj\Debug\UsdtToken.Api.csproj.CopyComplete
+Q:\14、uToken\usdttoken-sdk-csharp\UsdtToken\UsdtToken.Api\obj\Debug\UsdtToken.Api.dll
+Q:\14、uToken\usdttoken-sdk-csharp\UsdtToken\UsdtToken.Api\obj\Debug\UsdtToken.Api.pdb
+Q:\14、uToken\usdttoken-sdk-csharp\UsdtToken\UsdtToken.Api\obj\Debug\UsdtToken.Api.csproj.AssemblyReference.cache
